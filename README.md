@@ -17,12 +17,12 @@ In order to do that, similarly to the steps to generate [LeakG3PD-OD](https://gi
 
 Using LeakG3PD-T-OD dataset, leak detection and localization algorithms similar, but improved in relation to the ones for LeakG3PD-OD dataset, were developed: 
 
-<a href="https://drive.google.com/file/d/1spBIJG---tCUBPFKc2CphP4QUSf_cJfd/view?usp=sharing"><img src="https://drive.google.com/file/d/1spBIJG---tCUBPFKc2CphP4QUSf_cJfd/view?usp=sharing" width="600" height="240"/><a>
+<a href="https://drive.google.com/file/d/1spBIJG---tCUBPFKc2CphP4QUSf_cJfd/view?usp=sharing"><img src="https://drive.google.com/file/d/1spBIJG---tCUBPFKc2CphP4QUSf_cJfd" width="600" height="240"/><a>
 
 The results showed that both algorithms are useful, but further developments are required for practical utilization. 
 The dataset allows to calibrate infered pressures based on the demands of customers with particular tanks:
 
-<a href="https://drive.google.com/file/d/1bEmpHzXEC1fjBBEqlCJ8vQCDNrP9nn_D/view?usp=sharing"><img src="https://drive.google.com/file/d/1bEmpHzXEC1fjBBEqlCJ8vQCDNrP9nn_D/view?usp=sharing" width="600" height="240"/><a>
+<a href="https://drive.google.com/file/d/1bEmpHzXEC1fjBBEqlCJ8vQCDNrP9nn_D/view?usp=sharing"><img src="https://drive.google.com/file/d/1bEmpHzXEC1fjBBEqlCJ8vQCDNrP9nn_D" width="600" height="240"/><a>
 
 # Instructions for reproducibility
 
