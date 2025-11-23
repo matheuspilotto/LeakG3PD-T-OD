@@ -1,4 +1,4 @@
-# LeakG3PD-T-OD: a Simulated Water Distribution System dataset focused on water demand AMR signals and model based leakage detection and localization algorithms, including demand patterns for customers with Tanks
+# LeakG3PD-T-OD: a Dataset for Water Distribution System Leakage Detection and Localization Using Water Demand Automated Meter Reading, including demand patterns for customers with Tanks
 
 This dataset was based on [LeakG3PD-T EPANET Net 3 dataset](https://github.com/matheuspilotto/LeakG3PD-T), which contains demand patterns modelled from customers with particular tanks, and was considered as representative of the Real System. 
 The objective was to evaluate the use of almost exclusively demand signals for Leakage Detection and Localization.
