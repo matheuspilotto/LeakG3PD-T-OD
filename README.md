@@ -32,10 +32,12 @@ In any case, to run Python programs:
 3. conda install conda-forge::wntr
 
 If you wish to generate LeakG3PD-T-OD from scratch:
+
 4. Download and unzip [LeakG3PD-T Epanet Net 3 dataset](https://drive.google.com/file/d/1lrjTWyReSL5X8qTa2dqtJ5Bm0GkbVLhe/view) folder into a "LeakG3PD-T-OD Evaluation" folder
 5. Run python source file LeakG3PD-T-OD-DatasetGenerator.py
 6. Rename the dataset folder as EPANET Net 3_T_OD
 
 If you just wish to run the LDL program:
+
 7. Download and unzip  [LeakG3PD-T-OD Epanet Net 3 dataset](xxxxxxxxx)
 8. Run python source file T-OD-LeakDetectionAndLocalization.py
