@@ -39,5 +39,5 @@ If you wish to generate LeakG3PD-T-OD from scratch:
 
 If you just wish to run the LDL program:
 
-7. Download and unzip  [LeakG3PD-T-OD Epanet Net 3 dataset](xxxxxxxxx)
+7. Download and unzip  [LeakG3PD-T-OD Epanet Net 3 dataset](https://drive.google.com/file/d/1Ns1kztzO56wHvhULMKvAASJ-nBDFXVUe/view?usp=sharing)
 8. Run python source file T-OD-LeakDetectionAndLocalization.py
