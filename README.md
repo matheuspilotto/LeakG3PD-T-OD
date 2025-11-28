@@ -24,6 +24,10 @@ The dataset allows to calibrate infered pressures based on the demands of custom
 
 <a href="https://drive.google.com/file/d/1bEmpHzXEC1fjBBEqlCJ8vQCDNrP9nn_D/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1bEmpHzXEC1fjBBEqlCJ8vQCDNrP9nn_D" width="600" height="600"/><a>
 
+Graphical results of the leakage localization algorithms are available:
+
+<a href="https://drive.google.com/file/d/16036SP46r6VFbBRzCbdGOp2KA-fMfndb/view?usp=sharing"><img src="https://drive.google.com/file/d/16036SP46r6VFbBRzCbdGOp2KA-fMfndb" width="600" height="600"/><a>
+
 # Instructions for reproducibility
 
 In any case, to run Python programs:
