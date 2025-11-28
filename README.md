@@ -26,7 +26,7 @@ The dataset allows to calibrate infered pressures based on the demands of custom
 
 Graphical results of the leakage localization algorithms are available:
 
-<a href="https://drive.google.com/file/d/16036SP46r6VFbBRzCbdGOp2KA-fMfndb/view?usp=sharing"><img src="https://drive.google.com/file/d/16036SP46r6VFbBRzCbdGOp2KA-fMfndb" width="600" height="600"/><a>
+<a href="https://drive.google.com/file/d/16036SP46r6VFbBRzCbdGOp2KA-fMfndb/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=16036SP46r6VFbBRzCbdGOp2KA-fMfndb" width="600" height="600"/><a>
 
 # Instructions for reproducibility
 
